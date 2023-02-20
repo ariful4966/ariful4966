@@ -1,7 +1,7 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://ariful-islam66.web.app/)
 
 <h1 align="center">Hi 👋, I'm Md. Ariful Islam</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh. Hi, I am a professional full-stack Web Developer. So, I provide various designs & develop websites. I give you to my label best service.</h3>
+<h3 align="left">A passionate full stack developer from Bangladesh. Hi, I am a professional full-stack Web Developer. So, I provide various designs & develop websites. I give you to my label best service.</h3>
 <img align="right" alt="Codding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariful4966&label=Profile%20views&color=0e75b6&style=flat" alt="ariful4966" /> </p>
